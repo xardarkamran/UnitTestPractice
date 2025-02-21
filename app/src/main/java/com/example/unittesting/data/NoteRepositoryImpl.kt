@@ -10,7 +10,6 @@ class NoteRepositoryImpl @Inject constructor(private val notesDao: NotesDao): No
     override suspend fun insertNoteRepo(note: Note) {
         notesDao.insertNote(note)
     }
-
     override suspend fun updateNoteRepo(note: Note) {
         notesDao.updateNote(note)
     }
