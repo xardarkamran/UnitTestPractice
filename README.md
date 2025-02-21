@@ -15,6 +15,3 @@ This project demonstrates **Unit Testing & Instrumented Testing** in an **Androi
 - ✅ **Unit Testing (`test/` folder)**
 - 📱 **Instrumented Testing (`androidTest/` folder)**
 
----
-
-## 📌 Project Structure
